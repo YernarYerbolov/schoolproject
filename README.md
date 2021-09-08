@@ -1,6 +1,6 @@
 Чтобы скачать с гитхаба проект запускаем команду:
 ```
-git clone https://github.com/unitemir/eschool.git
+git clone https://github.com/YernarYerbolov/schoolproject.git
 ```
 Дальше заходим в папку eschool:
 ```
